@@ -33,3 +33,12 @@ Vritra is a potent and versatile bot that operates as a Remote Access Trojan (RA
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Contact me
+
+- Discord - [@shell.code](https://www.discordapp.com/users/997458265686429726)
+- Join my Discord server- https://www.dsc.gg/pwnhub
+
+
+## Note
+Please consider starring the project. With enough stars, I will continue actively updating and improving it. Please note that this project is still a work in progress.
