@@ -1,25 +1,5 @@
 @echo off
-setlocal
-
-echo.
-echo       ---_ ......._-_--.
-echo      (|\ /      / /^| \  ^
-echo      /  /     .'  -=-'   `.
-echo     /  /    .'             )
-echo   _/  /   .'        _.)   /
-echo  / o   o        _.-' /  .'
-echo  \          _.-'    / .'*
-echo   \______.-'//    .'.' \*
-echo    \^  \ ^| ^//   .'.' _ ^
-echo     \`   \^|//  .'.'_ _ _|
-echo      .  .^|// .'.' | _ _ \
-echo      \`-|\_/ /    \ _ _ \*\
-echo       \`/'\__/      \ _ _ \\
-echo      /^|            \ _ _ \*\
-echo     '  \`             \ _ _ \\      VRITRA
-echo                       \\_____\\
-
-echo.
+type art.txt
 echo Enter Bot Token:
 set /p bottoken=
 powershell -Command "(Get-Content building.py) -replace '%%token%%', '%bottoken%' | Set-Content building.py"
